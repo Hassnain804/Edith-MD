@@ -1,5 +1,5 @@
 {
-    "bot-name": "SHABAN-MD",
+    "bot-name": "Hassnain-Farooq",
     "description": "Whiskey Sockets Baileys Whatsapp bot By Mr Shaban",
     "logo": "https://i.ibb.co/qYtzFsVp/shaban-md.jpg",
     "keywords": ["bot"],
@@ -8,7 +8,7 @@
   
     "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here. Make sure it starts with SHABAN-MD~  or get session id from here,  https://pti-pair.onrender.com/",
+        "description": "EDITH-MD~eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiR0ozQmo0NzY3bjlhZVZYNEtOUTUzN2c5Y3hhNnF5b1RaZUhPdCtpRWVuYz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUHZ4d01obWxsM2VscHM5ekwzZ0lGSTlPM015N1p5aGNSVHk0ZEtaYVFrQT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJnSlJqZlRkOEFmQXAzNWRab0xBTGtSOTdVcnJ2Wm9KRktJNm4yQzFySmtvPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ2ZWMyMjIyRXFrTzRaUjhweWxPNEUweUNCeHBEM21iMnBvdk4rTHVGMFZZPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InNFWHl4cGgvakZhNWlpQ05WbEZzRUVrZm9VME9RQXdYMWpEeEEyT3BxbjQ9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjBoYndmREVXVlJBWjZBOXNEY1VxM3BmeEl4aWl4VS9NdjJZVDMwTTcyV3M9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZU9MYUNIRnVmeU15YzdtT2ppMmNKaEcwdW9LZW9GSTBxZ1lkWllyTTNtTT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSEcvamtteW5lOHNpVUFuR0NtaG9Xb09jenNVQ2dnNzh1QmNQRE1MNlR4OD0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Illpb2QvYklaaVZ6WHVJU1ZrUGpmOVYvNktjOU4zY1p5Q1BiMWR6YTh3YmpiT0lZVEhlaUFRT2FrdktPb2N4WDh0eUorVHduelNoV09IWnFxS2s5RkFRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6NDQsImFkdlNlY3JldEtleSI6InV1Z2liZS90R0gyZTQ1UDZPNUhPeERIdmdwemZwN0xSMEtOS1FTckk4dlE9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbeyJrZXkiOnsicmVtb3RlSmlkIjoiOTIzMzY1MTY5NjYwQHMud2hhdHNhcHAubmV0IiwiZnJvbU1lIjp0cnVlLCJpZCI6IkMwODc1Njc5QUE2Njg1NUZEOTFEMjMxRDE0RDlFRjFDIn0sIm1lc3NhZ2VUaW1lc3RhbXAiOjE3NTY4OTYwNTd9LHsia2V5Ijp7InJlbW90ZUppZCI6IjkyMzM2NTE2OTY2MEBzLndoYXRzYXBwLm5ldCIsImZyb21NZSI6dHJ1ZSwiaWQiOiJEN0UxMzJGNkFBMjMxODVDMzY1ODVGNjlBQ0UyMUE0MSJ9LCJtZXNzYWdlVGltZXN0YW1wIjoxNzU2ODk2MDU3fV0sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjoxLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwicmVnaXN0ZXJlZCI6dHJ1ZSwicGFpcmluZ0NvZGUiOiJFRElUSDEyMyIsIm1lIjp7ImlkIjoiOTIzMzY1MTY5NjYwOjRAcy53aGF0c2FwcC5uZXQiLCJsaWQiOiIyNjQ4NDU0ODQxMDU4NTY6NEBsaWQiLCJuYW1lIjoiSGFzc25haW4ifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ0l6Vm52RUJFTE8yNE1VR0dBRWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6ImF5RVpBNlNnamlaWlBHVmdaVFQ0bmR0ajAwaXNIM1pBWW1qRENnR3dDRHc9IiwiYWNjb3VudFNpZ25hdHVyZSI6InRBaHJkako1MzJqYkN3SElxUzYwVG5yUUc4T0VFdUd4STlDamdlcXlVaWRZV3hKekJGeE1XOW5BVW5FdlZab3NSOW03S2FJcnJiSlVqTXZhYjdHREFnPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJKa3FmYnJGK29nWlFUZG5haEtoQU0xaFRPUmdRNGsrbzF1UE9UWGJqV0krbjlYVzVxS0hmZEZHVi9qbTZ1VTZiQy9mRDB5ZXlEbHdhTkpqaFVHTjhCUT09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjkyMzM2NTE2OTY2MDo0QHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQldzaEdRT2tvSTRtV1R4bFlHVTArSjNiWTlOSXJCOTJRR0pvd3dvQnNBZzgifX1dLCJwbGF0Zm9ybSI6ImFuZHJvaWQiLCJyb3V0aW5nSW5mbyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkNBVUlBZz09In0sImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTc1Njg5NjA1MywibGFzdFByb3BIYXNoIjoiMlY3N3FVIiwibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFObGUifQ==. Make sure it starts with SHABAN-MD~  or get session id from here,  https://pti-pair.onrender.com/",
         "value":"",
         "required": true
         
@@ -30,14 +30,14 @@
       "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "MR-SHABAN"
+      "value": "MR-Hassnain"
       
     }, 
     
       "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923043788282"
+      "value": "923097580232"
 
     }, 
  
@@ -107,20 +107,20 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "𝐌𝐫 𝐒𝐡𝐚𝐛𝐚𝐧"
+      "value": "𝐌𝐫 Hassnain"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923043788282"
+      "value": "923097580232"
 
     }, 
 
     "BOT_NAME": {
-      "description": "Type here the bot name.",
+      "description": "Hassnain Farooq.",
       "required": false,
-      "value": "SHABAN-MD"
+      "value": "Hassnain-Farooq"
 
       }, 
 
